@@ -1,2 +1,2 @@
 # Jon_gitalk
-store the comments
+store the comments from Blog: jononearth.com
